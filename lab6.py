@@ -8,3 +8,25 @@ if number > 15 we say charries
 outside of those its bar
 
 we iterate ove it using a loop 3 times
+"""
+
+"""
+import random
+
+num - generate random number
+
+if num > 15
+    result: charries
+if num >10 
+    result: orange
+if number > 5
+    result: plum
+if number > 2
+    result: melon
+if num = 1
+    result: bell
+else
+    result: bar
+
+loop three times
+    print to user
