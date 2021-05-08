@@ -8,3 +8,5 @@ if number > 15 we say charries
 outside of those its bar
 
 we iterate ove it using a loop 3 times
+
+"""
